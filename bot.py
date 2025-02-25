@@ -8,7 +8,7 @@ from telegram.ext import (
 )
 from datetime import timezone
 
-BOT_TOKEN = '7575984727:AAFf2QIuYVIVkH0g-irH-iMlLrPpJJGDrvM'
+BOT_TOKEN = '7775890123:AAF8Tnbt2F4hz5JpINxqoqFS0IgwBaQGtVg'
 
 # Файл для хранения списка зарегистрированных чатов
 DATA_FILE = 'registered_chats.json'
